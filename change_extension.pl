@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 #PROGRAM DESCRIPTION: Recursively change all file extensions in a directory of
-#command line argument old_extension and new_extension
+#command line argument old_extension to argument new_extension
 
 use strict;
 use warnings;
